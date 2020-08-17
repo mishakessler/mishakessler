@@ -1,5 +1,5 @@
 
-<div style="text-align: center; image-align: center">
+<p align="center">
 
   <img src="https://imgur.com/b3zLfl7.gif" alt="Misha Kessler Banner"/>
 
@@ -33,4 +33,4 @@
     <img src="https://imgur.com/nHHlXdx.png" alt="Custom Watercolor Email Logo" height="40px" style="margin:0 5px"/>
   </a>
 
-</div>
+</p>
