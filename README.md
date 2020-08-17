@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://www.mishakessler.com">
-  <img src="github-banner-v3.gif" alt="Misha Kessler Banner"/>
+  <img src="./github-banner-v3.gif" alt="Misha Kessler Banner"/>
   </a>
 </p>
 
