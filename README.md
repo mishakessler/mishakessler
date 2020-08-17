@@ -15,11 +15,7 @@ Disciplined, meticulous, and intently empathetic to the user and consumer experi
 
 Day-to-day, you'll find me at [General Assembly](https://generalassemb.ly/), where I'm an Associate Instructor for the 500-hour [Software Engineering Immersive](https://generalassemb.ly/education/software-engineering-immersive/new-york-city), or hacking away on mental health and suicide prevention technology projects.
 
-<br>
-
 <h3 align="center">Wanna chat? Find me online:</h3>
-
-<br>
 
 <p align="center">
   <a style="margin: 0 5px" href="https://www.mishakessler.com">
@@ -41,8 +37,6 @@ Day-to-day, you'll find me at [General Assembly](https://generalassemb.ly/), whe
     <img src="https://imgur.com/nHHlXdx.png" alt="Custom Watercolor Email Logo" height="40px"/>
   </a>
 </p>
-
-<br>
 
 ## Learn More
 
