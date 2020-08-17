@@ -5,13 +5,19 @@
   </a>
 </p>
 
-<h2 align="center">Hey there, I'm Misha. Welcome to my GitHub!</h2>
+<h2 align="center">Hey there, I'm Misha.</h2>
 
-I'm a mission-driven full stack developer, creative technologist, aspiring social entrepreneur, and thought leader in mental health and suicide prevention.
+I'm a mission-driven full stack developer, creative technologist, aspiring social entrepreneur, and thought leader in mental health and suicide prevention. 
 
-Day-to-day, you'll find me at [General Assembly](https://generalassemb.ly/education/software-engineering-immersive/new-york-city), where I'm an Associate Instructor for the 500-hour Software Engineering Immersive.
+Disciplined, meticulous, and intently empathetic to the user and consumer experiences, I strive to understand the tangible challenges that we face individually and communally, and to subsequently research, learn, and leverage modern technologies to create user-driven solutions.
 
-### Wanna learn more or get in touch? Don't hesitate:
+###
+
+Day-to-day, you'll find me at [General Assembly](https://generalassemb.ly/), where I'm an Associate Instructor for the 500-hour [Software Engineering Immersive](https://generalassemb.ly/education/software-engineering-immersive/new-york-city), or hacking away on mental health and suicide prevention technology projects.
+
+<br>
+
+<h3 align="center">Wanna chat? Find me online:</h3>
 
 <br>
 
@@ -38,6 +44,8 @@ Day-to-day, you'll find me at [General Assembly](https://generalassemb.ly/educat
 
 <br>
 
-### Learn More
+## Learn More
 
-Disciplined, motivated, meticulous, and intently empathetic to the user and consumer experiences, I always strive to understand the tangible challenges that we face communally and individually, and to subsequently research, learn, and leverage modern technologies to create user-driven solutions.
+### My Passion
+
+In addition to my day-to-day grind, you'll often find me advocating for mental health and suicide prevention, whether that's [speaking at events](https://www.youtube.com/watch?v=yksozo9dUKg) or [with journalists](https://talk.crisisnow.com/behavioral-healthcare-must-be-accessible-to-students/), guiding [policies](https://napolitano.house.gov/media/press-releases/napolitano-katko-hold-transforming-crisis-mental-health-care-briefing), [programs](https://www.sixftover.org/), and [research](https://www.apa.org/depression-guideline/guideline.pdf) via committees and advisory boards, [coauthoring op-eds](https://www.azcentral.com/story/opinion/op-ed/2018/06/14/suicide-attempt-depression-lessons/700134002/) or [recommendations for the improvement of crisis intervention services](https://omh.ny.gov/omhweb/resources/publications/suicide-prevention-task-force-report.pdf), or just by personally helping individuals to find the help that's right for them.
