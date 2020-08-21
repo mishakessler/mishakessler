@@ -60,6 +60,8 @@ Want to learn more? Click on the titles below to expand and read on!
 
 <summary><b>My Passion</b></summary>
 
+<br>
+
 In addition to my day-to-day grind, you'll often find me advocating for mental health and suicide prevention, whether that's [speaking at events](https://www.youtube.com/watch?v=yksozo9dUKg) or [with journalists](https://talk.crisisnow.com/behavioral-healthcare-must-be-accessible-to-students/), guiding [policies](https://napolitano.house.gov/media/press-releases/napolitano-katko-hold-transforming-crisis-mental-health-care-briefing), [programs](https://www.sixftover.org/), and [research](https://www.apa.org/depression-guideline/guideline.pdf), [coauthoring op-eds](https://www.azcentral.com/story/opinion/op-ed/2018/06/14/suicide-attempt-depression-lessons/700134002/) and [recommendations for the improvement of crisis intervention services](https://omh.ny.gov/omhweb/resources/publications/suicide-prevention-task-force-report.pdf), [summiting mountains to fundraise for suicide prevention](https://www.facebook.com/donate/1450068458422007/1473012369672974/), or just by personally helping individuals to find the help that's right for them.
 
 </details>
@@ -67,6 +69,8 @@ In addition to my day-to-day grind, you'll often find me advocating for mental h
 <details>
 
 <summary><b>My Career Vision</b></summary>
+
+<br>
 
 It's this background that has helped me become intently empathetic to the user and consumer experiences. Because of this, I'm constantly striving to understand the tangible challenges that we face individually and communally, and to subsequently research, learn, and leverage modern technologies to create user-driven solutions.
 
