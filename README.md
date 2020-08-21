@@ -36,6 +36,8 @@ Day-to-day, you'll find me at [General Assembly](https://generalassemb.ly/), whe
 ![](https://img.shields.io/badge/OS-Apple-informational?logo=apple&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?logo=gnu-bash&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?logo=visual-studio-code&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Software-Adobe_Illustrator-informational?logo=adobe-illustrator&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Software-Adobe_XD-informational?logo=adobe-xd&logoColor=white&color=00bac8)
 
 ![](https://img.shields.io/badge/Language-JavaScript-informational?logo=javascript&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Runtime-Node.js-informational?logo=node.js&logoColor=white&color=00bac8)
@@ -55,10 +57,6 @@ Day-to-day, you'll find me at [General Assembly](https://generalassemb.ly/), whe
 ![](https://img.shields.io/badge/Tools-Heroku-informational?logo=heroku&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Tools-AWS-informational?logo=amazon-aws&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Tools-Serverless-informational?logo=serverless&logoColor=white&color=00bac8)
-
-![](https://img.shields.io/badge/Software-Adobe_Illustrator-informational?logo=adobe-illustrator&logoColor=white&color=00bac8)
-![](https://img.shields.io/badge/Software-Adobe_XD-informational?logo=adobe-xd&logoColor=white&color=00bac8)
-![](https://img.shields.io/badge/Software-Adobe_Illustrator-informational?logo=adobe-illustrator&logoColor=white&color=00bac8)
 
 <h2 align="center">Learn More 🔎</h2>
 
