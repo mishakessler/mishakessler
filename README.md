@@ -43,15 +43,22 @@ Day-to-day, you'll find me at [General Assembly](https://generalassemb.ly/), whe
 ![](https://img.shields.io/badge/Framework-Gatsby.js-informational?logo=gatsby&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Language-CSS-informational?logo=css3&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Language-Styled_Components-informational?logo=styled-components&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Language-Component_Libraries-informational?logo=storybook&logoColor=white&color=00bac8)
 ![](<https://img.shields.io/badge/Language-SQL_(PostgreSQL)-informational?logo=postgresql&logoColor=white&color=00bac8>)
 ![](<https://img.shields.io/badge/Language-noSQL_(DynamoDB)-informational?logo=MongoDB&logoColor=white&color=00bac8>)
 ![](https://img.shields.io/badge/Language-Ruby-informational?logo=ruby&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Framework-Rails-informational?logo=ruby-on-rails&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Language-PHP-informational?logo=php&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Framework-WordPress-informational?logo=wordpress&logoColor=white&color=00bac8)
 
 ![](https://img.shields.io/badge/Tools-Netlify-informational?logo=netlify&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?logo=heroku&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Tools-AWS-informational?logo=amazon-aws&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Tools-Serverless-informational?logo=serverless&logoColor=white&color=00bac8)
+
+![](https://img.shields.io/badge/Software-Adobe_Illustrator-informational?logo=adobe-illustrator&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Software-Adobe_XD-informational?logo=adobe-xd&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Software-Adobe_Illustrator-informational?logo=adobe-illustrator&logoColor=white&color=00bac8)
 
 <h2 align="center">Learn More 🔎</h2>
 
