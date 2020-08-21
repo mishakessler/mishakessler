@@ -52,8 +52,6 @@ Day-to-day, you'll find me at [General Assembly](https://generalassemb.ly/), whe
 ![](https://img.shields.io/badge/Tools-AWS-informational?logo=amazon-aws&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Tools-Serverless-informational?logo=serverless&logoColor=white&color=00bac8)
 
----
-
 <h2 align="center">Learn More 🔎</h2>
 
 Want to learn more? Click on the titles below to expand and read on!
@@ -75,7 +73,5 @@ It's this background that has helped me become intently empathetic to the user a
 Ultimately, my goal is to utilize technology to advance the causes and amplify the voices of the advocates, carers, health professionals, scientists, social justice warriors– the people who work tirelessly to lift up the most vulnerable among us– and further their successes in pursuit of their missions.
 
 </details>
-
----
 
 _Hat tip to [Martin Heinz](https://github.com/MartinHeinz) for the README.md inspiration._
