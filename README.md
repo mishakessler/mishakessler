@@ -25,6 +25,8 @@
   </a>
 </p>
 
+<br>
+
 <h2 align="center">Hey there, I'm Misha. 👋🏻</h2>
 
 I'm a mission-driven full stack developer, creative technologist, aspiring social entrepreneur, and thought leader in mental health and suicide prevention. Day-to-day, you'll find me at [General Assembly](https://generalassemb.ly/), where I'm an Associate Instructor for the 500-hour [Software Engineering Immersive](https://generalassemb.ly/education/software-engineering-immersive/new-york-city), or hacking away on mental health and suicide prevention technology projects.
@@ -56,6 +58,8 @@ I'm a mission-driven full stack developer, creative technologist, aspiring socia
 ![](https://img.shields.io/badge/Tools-AWS-informational?logo=amazon-aws&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Tools-Serverless-informational?logo=serverless&logoColor=white&color=00bac8)
 
+<br>
+
 <h2 align="center">Learn More 🔎</h2>
 
 Want to learn more? Click on the titles below to expand and read on!
@@ -81,5 +85,7 @@ It's this background that has helped me become intently empathetic to the user a
 Ultimately, my goal is to utilize technology to advance the causes and amplify the voices of the advocates, carers, health professionals, scientists, social justice warriors– the people who work tirelessly to lift up the most vulnerable among us– and further their successes in pursuit of their missions.
 
 </details>
+
+<br>
 
 _Hat tip to [Martin Heinz](https://github.com/MartinHeinz) for the README.md inspiration._
