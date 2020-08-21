@@ -42,6 +42,7 @@ Day-to-day, you'll find me at [General Assembly](https://generalassemb.ly/), whe
 ![](https://img.shields.io/badge/Library-React.js-informational?logo=react&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Framework-Gatsby.js-informational?logo=gatsby&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Language-CSS-informational?logo=css3&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Language-Styled_Components-informational?logo=styled-components&logoColor=white&color=00bac8)
 ![](<https://img.shields.io/badge/Language-SQL_(PostgreSQL)-informational?logo=postgresql&logoColor=white&color=00bac8>)
 ![](<https://img.shields.io/badge/Language-noSQL_(DynamoDB)-informational?logo=MongoDB&logoColor=white&color=00bac8>)
 ![](https://img.shields.io/badge/Language-Ruby-informational?logo=ruby&logoColor=white&color=00bac8)
