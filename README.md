@@ -74,6 +74,8 @@ In addition to my day-to-day grind, you'll often find me advocating for mental h
 
 </details>
 
+<br>
+
 <details>
 
 <summary><b>My Career Vision</b></summary>
