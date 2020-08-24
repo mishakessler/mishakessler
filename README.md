@@ -27,15 +27,17 @@
 
 <h2 align="center">Hey there, I'm Misha. 👋🏻</h2>
 
-I'm a mission-driven full stack developer, creative technologist, aspiring social entrepreneur, and thought leader in mental health and suicide prevention. Day-to-day, you'll find me at [General Assembly](https://generalassemb.ly/), where I'm an Associate Instructor for the 500-hour [Software Engineering Immersive](https://generalassemb.ly/education/software-engineering-immersive/new-york-city), or hacking away on mental health and suicide prevention technology projects.
+### Overview
+
+- I'm a mission-driven full stack developer, creative technologist, aspiring social entrepreneur, and thought leader in mental health and suicide prevention.
+- Day-to-day, you'll find me at [General Assembly](https://generalassemb.ly/), where I'm an Associate Instructor for the 500-hour [Software Engineering Immersive](https://generalassemb.ly/education/software-engineering-immersive/new-york-city).
+- In my spare time, I'm often hacking away on mental health and suicide prevention technology projects.
 
 ### Languages, Frameworks & Tools
 
 ![](https://img.shields.io/badge/OS-Apple-informational?logo=apple&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?logo=gnu-bash&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?logo=visual-studio-code&logoColor=white&color=00bac8)
-![](https://img.shields.io/badge/Software-Adobe_Illustrator-informational?logo=adobe-illustrator&logoColor=white&color=00bac8)
-![](https://img.shields.io/badge/Software-Adobe_XD-informational?logo=adobe-xd&logoColor=white&color=00bac8)
 
 ![](https://img.shields.io/badge/Language-JavaScript-informational?logo=javascript&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Runtime-Node.js-informational?logo=node.js&logoColor=white&color=00bac8)
