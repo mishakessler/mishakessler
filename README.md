@@ -32,6 +32,7 @@
 - I'm a mission-driven full stack developer, creative technologist, aspiring social entrepreneur, and thought leader in mental health and suicide prevention.
 - Day-to-day, you'll find me at [General Assembly](https://generalassemb.ly/), where I'm an Associate Instructor for the 500-hour [Software Engineering Immersive](https://generalassemb.ly/education/software-engineering-immersive/new-york-city).
 - In my spare time, I'm often hacking away on mental health and suicide prevention technology projects.
+- You can download my technical resumé at [this link](https://docdro.id/nJnd3i6) or on [my full portfolio](https://www.mishakessler.com).
 
 ### Languages, Frameworks & Platforms
 
