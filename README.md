@@ -25,8 +25,6 @@
   </a>
 </p>
 
-<br>
-
 <h2 align="center">Hey there, I'm Misha. 👋🏻</h2>
 
 I'm a mission-driven full stack developer, creative technologist, aspiring social entrepreneur, and thought leader in mental health and suicide prevention. Day-to-day, you'll find me at [General Assembly](https://generalassemb.ly/), where I'm an Associate Instructor for the 500-hour [Software Engineering Immersive](https://generalassemb.ly/education/software-engineering-immersive/new-york-city), or hacking away on mental health and suicide prevention technology projects.
