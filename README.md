@@ -36,7 +36,7 @@
 
 <br>
 
-<h2 align="center">I'd like to think I know a thing or two. 🤓/h2>
+<h2 align="center">I'd like to think I know a thing or two. 🤓</h2>
 
 ### Languages, Frameworks & Platforms
 
