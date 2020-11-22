@@ -86,5 +86,5 @@ Ultimately, my goal is to utilize technology to advance the causes and amplify t
 </details>
 
 <br>
-
-<p style="font-size: 9px">_Hat tip to [Martin Heinz](https://github.com/MartinHeinz) for the README.md inspiration._</p>
+  
+Hat tip to [Martin Heinz](https://github.com/MartinHeinz) for the README.md inspiration.
