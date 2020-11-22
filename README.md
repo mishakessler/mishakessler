@@ -34,32 +34,40 @@
 - In my spare time, I'm often hacking away on mental health and suicide prevention technology projects, or speaking at conferences, charity galas, and in news media regarding crisis intervention.
 - You can download my technical resumé at [this link](https://docdro.id/nJnd3i6) or on [my full portfolio](https://www.mishakessler.com).
 
+<br>
+
+<h2 align="center">I know a thing or two. 🏻</h2>
+
 ### Languages, Frameworks & Platforms
 
 ![](https://img.shields.io/badge/OS-Apple-informational?logo=apple&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?logo=gnu-bash&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?logo=visual-studio-code&logoColor=white&color=00bac8)
+
 ![](https://img.shields.io/badge/Language-JavaScript-informational?logo=javascript&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Runtime-Node.js-informational?logo=node.js&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Library-React.js-informational?logo=react&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Framework-Gatsby.js-informational?logo=gatsby&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Language-CSS-informational?logo=css3&logoColor=white&color=00bac8)
-![](https://img.shields.io/badge/Language-Styled_Components-informational?logo=styled-components&logoColor=white&color=00bac8)
-![](https://img.shields.io/badge/Language-Component_Libraries-informational?logo=storybook&logoColor=white&color=00bac8)
-![](<https://img.shields.io/badge/Language-SQL_(PostgreSQL)-informational?logo=postgresql&logoColor=white&color=00bac8>)
-![](<https://img.shields.io/badge/Language-noSQL_(DynamoDB)-informational?logo=MongoDB&logoColor=white&color=00bac8>)
+![](https://img.shields.io/badge/Library-Styled_Components-informational?logo=styled-components&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Library-Component_Libraries-informational?logo=storybook&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Language-SQL-informational?logo=postgresql&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Language-noSQL-informational?logo=MongoDB&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Language-Ruby-informational?logo=ruby&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Framework-Rails-informational?logo=ruby-on-rails&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Language-PHP-informational?logo=php&logoColor=white&color=00bac8)
-![](https://img.shields.io/badge/Platform-WordPress-informational?logo=wordpress&logoColor=white&color=00bac8)
+
 ![](https://img.shields.io/badge/Platform-Netlify-informational?logo=netlify&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Platform-Heroku-informational?logo=heroku&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Platform-AWS-informational?logo=amazon-aws&logoColor=white&color=00bac8)
-![](https://img.shields.io/badge/Tools-Serverless-informational?logo=serverless&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Platform-WordPress-informational?logo=wordpress&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Stack-Serverless-informational?logo=serverless&logoColor=white&color=00bac8)
+
+<br>
 
 <h2 align="center">Learn More 🔎</h2>
 
-Want to learn more? Click on the titles below to expand and read on!
+Want to learn more? Click on the titles below to expand!
 
 <details>
 
