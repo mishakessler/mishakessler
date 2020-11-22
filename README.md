@@ -34,16 +34,13 @@
 - In my spare time, I'm often hacking away on mental health and suicide prevention technology projects, or speaking at conferences, charity galas, and in news media regarding crisis intervention.
 - You can download my technical resumé at [this link](https://docdro.id/nJnd3i6) or on [my full portfolio](https://www.mishakessler.com).
 
-<br>
-
-<h2 align="center">I'd like to think I know a thing or two. 🤓</h2>
+<h2 align="center">I'm passionate about a thing or two. 🤓</h2>
 
 ### Languages, Frameworks & Platforms
 
 ![](https://img.shields.io/badge/OS-Apple-informational?logo=apple&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?logo=gnu-bash&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?logo=visual-studio-code&logoColor=white&color=00bac8)
-
 ![](https://img.shields.io/badge/Language-JavaScript-informational?logo=javascript&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Runtime-Node.js-informational?logo=node.js&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Library-React.js-informational?logo=react&logoColor=white&color=00bac8)
@@ -56,14 +53,11 @@
 ![](https://img.shields.io/badge/Language-Ruby-informational?logo=ruby&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Framework-Rails-informational?logo=ruby-on-rails&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Language-PHP-informational?logo=php&logoColor=white&color=00bac8)
-
 ![](https://img.shields.io/badge/Platform-Netlify-informational?logo=netlify&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Platform-Heroku-informational?logo=heroku&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Platform-AWS-informational?logo=amazon-aws&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Platform-WordPress-informational?logo=wordpress&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Stack-Serverless-informational?logo=serverless&logoColor=white&color=00bac8)
-
-<br>
 
 <h2 align="center">Learn More 🔎</h2>
 
@@ -93,4 +87,4 @@ Ultimately, my goal is to utilize technology to advance the causes and amplify t
 
 <br>
 
-_Hat tip to [Martin Heinz](https://github.com/MartinHeinz) for the README.md inspiration._
+<p style="font-size: 9px">_Hat tip to [Martin Heinz](https://github.com/MartinHeinz) for the README.md inspiration._</p>
