@@ -1,27 +1,6 @@
 <p align="center">
   <a href="https://www.mishakessler.com">
-  <img src="https://github.com/mishakessler/mishakessler/blob/master/github-banner-v3.gif" alt="Misha Kessler Banner"/>
-  </a>
-</p>
-
-<p align="center">
-  <a style="margin: 0 5px" href="https://www.mishakessler.com">
-    <img src="https://imgur.com/PowY5kh.png" alt="Custom Watercolor Portfolio Logo" height="40px"/>
-  </a>
-  <a style="margin: 0 5px" href="https://www.linkedin.com/in/mishakessler">
-    <img src="https://imgur.com/AoH5Wac.png" alt="Custom Watercolor LinkedIn Logo" height="40px"/>
-  </a>
-  <a style="margin: 0 5px" href="https://angel.co/u/mishakessler">
-    <img src="https://imgur.com/leDskxg.png" alt="Custom Watercolor Angel.co Logo" height="40px"/>
-  </a>
-  <a style="margin: 0 5px" href="http://cofounderslab.com/profile/misha-kessler">
-    <img src="https://imgur.com/sPXLXvg.png" alt="Custom Watercolor CoFoundersLab Logo" height="40px"/>
-  </a>
-  <a style="margin: 0 5px" href="https://www.instagram.com/mishakessler">
-    <img src="https://imgur.com/YNTGISb.png" alt="Custom Watercolor Instagram Logo" height="40px"/>
-  </a>
-  <a style="margin: 0 5px" href="mailto:misha.kessler@gmail.com">
-    <img src="https://imgur.com/nHHlXdx.png" alt="Custom Watercolor Email Logo" height="40px"/>
+  <img src="https://github.com/mishakessler/mishakessler/blob/master/github-banner-v3.gif" alt="Misha Kessler's Banner GIF"/>
   </a>
 </p>
 
@@ -59,9 +38,11 @@
 ![](https://img.shields.io/badge/Platform-WordPress-informational?logo=wordpress&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Stack-Serverless-informational?logo=serverless&logoColor=white&color=00bac8)
 
-<h2 align="center">Learn More 🔎</h2>
+<h2 align="center">Want to learn more? 🔎</h2>
 
-Want to learn more? Click on the titles below to expand!
+### About My Work
+
+Click on the titles below to expand!
 
 <details>
 
@@ -86,5 +67,26 @@ Ultimately, my goal is to utilize technology to advance the causes and amplify t
 </details>
 
 <br>
-  
-Hat tip to [Martin Heinz](https://github.com/MartinHeinz) for the README.md inspiration.
+
+### Find Me Online
+
+<p align="center">
+  <a style="margin: 0 5px" href="https://www.mishakessler.com">
+    <img src="https://imgur.com/PowY5kh.png" alt="Custom Watercolor Portfolio Logo" height="40px"/>
+  </a>
+  <a style="margin: 0 5px" href="https://www.linkedin.com/in/mishakessler">
+    <img src="https://imgur.com/AoH5Wac.png" alt="Custom Watercolor LinkedIn Logo" height="40px"/>
+  </a>
+  <a style="margin: 0 5px" href="https://angel.co/u/mishakessler">
+    <img src="https://imgur.com/leDskxg.png" alt="Custom Watercolor Angel.co Logo" height="40px"/>
+  </a>
+  <a style="margin: 0 5px" href="http://cofounderslab.com/profile/misha-kessler">
+    <img src="https://imgur.com/sPXLXvg.png" alt="Custom Watercolor CoFoundersLab Logo" height="40px"/>
+  </a>
+  <a style="margin: 0 5px" href="https://www.instagram.com/mishakessler">
+    <img src="https://imgur.com/YNTGISb.png" alt="Custom Watercolor Instagram Logo" height="40px"/>
+  </a>
+  <a style="margin: 0 5px" href="mailto:misha.kessler@gmail.com">
+    <img src="https://imgur.com/nHHlXdx.png" alt="Custom Watercolor Email Logo" height="40px"/>
+  </a>
+</p>
