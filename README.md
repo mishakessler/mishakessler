@@ -58,22 +58,22 @@ Ultimately, my goal is to utilize technology to advance the causes and amplify t
 
 <p align="center">
   <a style="margin: 0 5px" href="https://www.mishakessler.com">
-    <img src="https://imgur.com/PowY5kh.png" alt="Custom Watercolor Portfolio Logo" height="40px"/>
+    <img src="https://imgur.com/PowY5kh.png" alt="Custom Watercolor Portfolio Logo" height="50px"/>
   </a>
   <a style="margin: 0 5px" href="https://www.linkedin.com/in/mishakessler">
-    <img src="https://imgur.com/AoH5Wac.png" alt="Custom Watercolor LinkedIn Logo" height="40px"/>
+    <img src="https://imgur.com/AoH5Wac.png" alt="Custom Watercolor LinkedIn Logo" height="50px"/>
   </a>
   <a style="margin: 0 5px" href="https://angel.co/u/mishakessler">
-    <img src="https://imgur.com/leDskxg.png" alt="Custom Watercolor Angel.co Logo" height="40px"/>
+    <img src="https://imgur.com/leDskxg.png" alt="Custom Watercolor Angel.co Logo" height="50px"/>
   </a>
   <a style="margin: 0 5px" href="http://cofounderslab.com/profile/misha-kessler">
-    <img src="https://imgur.com/sPXLXvg.png" alt="Custom Watercolor CoFoundersLab Logo" height="40px"/>
+    <img src="https://imgur.com/sPXLXvg.png" alt="Custom Watercolor CoFoundersLab Logo" height="50px"/>
   </a>
   <a style="margin: 0 5px" href="https://www.instagram.com/mishakessler">
-    <img src="https://imgur.com/YNTGISb.png" alt="Custom Watercolor Instagram Logo" height="40px"/>
+    <img src="https://imgur.com/YNTGISb.png" alt="Custom Watercolor Instagram Logo" height="50px"/>
   </a>
   <a style="margin: 0 5px" href="mailto:misha.kessler@gmail.com">
-    <img src="https://imgur.com/nHHlXdx.png" alt="Custom Watercolor Email Logo" height="40px"/>
+    <img src="https://imgur.com/nHHlXdx.png" alt="Custom Watercolor Email Logo" height="50px"/>
   </a>
 </p>
 
