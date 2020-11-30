@@ -35,7 +35,7 @@
 ![][Netlify]
 ![][Heroku]
 ![][AWS]
-![][WordPress]
+![][WP]
 ![][Serverless]
 
 <br>
