@@ -68,7 +68,7 @@ Ultimately, my goal is to utilize technology to advance the causes and amplify t
 
 <br>
 
-### Find Me Online
+<h2 align="center">Find Me Online 👨🏼</h2>
 
 <p align="center">
   <a style="margin: 0 5px" href="https://www.mishakessler.com">
