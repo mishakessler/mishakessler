@@ -6,14 +6,14 @@
 
 <h2 align="center">Hey there, I'm Misha. 👋🏻</h2>
 
+<h3 align="center">I'm passionate about a thing or two. 🤓</h3>
+
 ### Overview
 
 - I'm a mission-driven full stack developer, product developer, creative technologist, and thought leader in mental health and suicide prevention.
 - Day-to-day, you'll find me at [General Assembly](https://generalassemb.ly/), where I'm an Associate Instructor for the 500-hour [Software Engineering Immersive](https://generalassemb.ly/education/software-engineering-immersive/new-york-city).
 - In my spare time, I'm often hacking away on mental health and suicide prevention technology projects, or speaking at conferences, charity galas, and in news media regarding crisis intervention.
 - You can download my technical resumé at [this link](https://docdro.id/nJnd3i6) or on [my full portfolio](https://www.mishakessler.com).
-
-<h2 align="center">I'm passionate about a thing or two. 🤓</h2>
 
 ### Languages, Frameworks & Platforms
 
@@ -38,11 +38,9 @@
 ![](https://img.shields.io/badge/Platform-WordPress-informational?logo=wordpress&logoColor=white&color=00bac8)
 ![](https://img.shields.io/badge/Stack-Serverless-informational?logo=serverless&logoColor=white&color=00bac8)
 
+<br>
+
 <h2 align="center">Want to learn more? 🔎</h2>
-
-### About My Work
-
-Click on the titles below to expand!
 
 <details>
 
