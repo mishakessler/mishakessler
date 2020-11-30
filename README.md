@@ -40,7 +40,7 @@
 
 <br>
 
-<h2 align="center">Want to learn more? 🔎</h2>
+<h3 align="center">Want to learn more? 🔎</h3>
 
 #### My Passion
 
@@ -54,7 +54,7 @@ Ultimately, my goal is to utilize technology to advance the causes and amplify t
 
 <br>
 
-<h2 align="center">Find Me Online 👨🏼</h2>
+<h3 align="center">Find Me Online 👨🏼</h3>
 
 <p align="center">
   <a style="margin: 0 5px" href="https://www.mishakessler.com">
