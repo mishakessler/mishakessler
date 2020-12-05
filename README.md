@@ -10,9 +10,9 @@
 
 #### Overview
 
-- I'm a mission-driven full stack developer, product developer, creative technologist, and thought leader in mental health and suicide prevention.
+- I'm a mission-driven software engineer and technical product developer.
 - Day-to-day, you'll find me at [General Assembly][General Assembly], where I'm an Associate Instructor for the 500-hour [Software Engineering Immersive][SEI].
-- In my spare time, I'm often hacking away on mental health and suicide prevention technology projects, or speaking at conferences, charity galas, and in news media regarding crisis intervention.
+- In my spare time, I'm often hacking away on mental health and suicide prevention technology projects, or speaking at conferences, charity galas, and in interviews with popular media outlets.
 - You can download my technical resumé at [this link][technical resume] or on [my full portfolio][portfolio].
 
 #### Languages, Frameworks & Platforms
