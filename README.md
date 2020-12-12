@@ -20,6 +20,7 @@
 ![][Apple]
 ![][Zsh]
 ![][VSCode]
+![][HTML]
 ![][JS]
 ![][Node]
 ![][React]
@@ -95,6 +96,7 @@ Ultimately, my goal is to utilize technology to advance the causes and amplify t
 [Apple]: https://img.shields.io/badge/OS-Apple-informational?logo=apple&logoColor=white&color=00bac8
 [Zsh]: https://img.shields.io/badge/Shell-Zsh-informational?logo=gnu-bash&logoColor=white&color=00bac8
 [VSCode]: https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?logo=visual-studio-code&logoColor=white&color=00bac8
+[HTML]: https://img.shields.io/badge/Language-HTML-informational?logo=html5&logoColor=white&color=00bac8
 [JS]: https://img.shields.io/badge/Language-JavaScript-informational?logo=javascript&logoColor=white&color=00bac8
 [Node]: https://img.shields.io/badge/Runtime-Node.js-informational?logo=node.js&logoColor=white&color=00bac8
 [React]: https://img.shields.io/badge/Library-React.js-informational?logo=react&logoColor=white&color=00bac8
