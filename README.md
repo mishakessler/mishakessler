@@ -11,7 +11,7 @@
 #### Overview
 
 - I'm a mission-driven software engineer and technical product developer.
-- Day-to-day, you'll find me at [General Assembly][General Assembly], where I'm an Associate Instructor for the 500-hour [Software Engineering Immersive][SEI].
+- Day-to-day, you'll find me at [General Assembly][General Assembly], where I'm the Senior Associate Instructor for Curriculum and Planning on the 500-hour [Software Engineering Immersive][SEI].
 - In my spare time, I'm often hacking away on mental health and suicide prevention technology projects, or speaking at conferences, charity galas, and in interviews with popular media outlets.
 - You can download my technical resumé at [this link][technical resume] or on [my full portfolio][portfolio].
 
