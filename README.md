@@ -6,13 +6,14 @@
 
 <h2 align="center">Hey there, I'm Misha. 👋🏻</h2>
 
-<h3 align="center">I'm passionate about a thing or two. 🤓</h3>
+<h3 align="center">I'm passionate about a thing or two.</h3>
 
 #### Overview
 
-- I'm a mission-driven software engineer and technical product developer.
-- Day-to-day, you'll find me at [General Assembly], where I'm a Senior Associate Instructor for Curriculum and Planning on the New York Campus' 500-hour [Software Engineering Immersive][SEI].
-- In my spare time, I'm often hacking away on mental health and suicide prevention technology projects, or speaking at conferences, charity galas, and in interviews with popular media outlets.
+- I'm a mission-driven, full-stack software engineer.
+- I'm particularly passionate about cultivating brilliant user interfaces and well-architected systems to empower those interfaces.
+- Currently, you'll find me at [Halcyon Health], a venture-funded startup, where I'm a full-stack softeware engineer working on their substance addiction treatment app. 
+- Previously, I worked for [General Assembly], where I was a Senior Associate Instructor for Curriculum and Planning on the New York Campus' 500-hour [Software Engineering Immersive][SEI].
 - You can download my technical resumé at [this link][technical resume] or on [my full portfolio][portfolio].
 
 #### Languages, Frameworks & Platforms
@@ -20,11 +21,8 @@
 ![][Apple]
 ![][Zsh]
 ![][VSCode]
-![][HTML]
-![][JS]
 ![][Node]
 ![][React]
-![][Gatsby]
 ![][CSS]
 ![][SC]
 ![][CL]
@@ -46,8 +44,6 @@
 #### My Passion
 
 In addition to my day-to-day grind, you'll often find me advocating for mental health and suicide prevention, whether that's [speaking at events][speaking at events] or [with journalists][with journalists], guiding [policies][policies], [programs][programs], and [clinical research][clinical research], [coauthoring op-eds][coauthoring op-eds] and [recommendations for the improvement of crisis intervention services][recommendations for the improvement of crisis intervention services], [summiting mountains to fundraise for suicide prevention][summiting mountains to fundraise for suicide prevention], or just by personally helping individuals to find the help that's right for them.
-
-#### My Career Vision
 
 It's this background that has helped me become intently empathetic to the user and consumer experiences. Because of this, I'm constantly striving to understand the tangible challenges that we face individually and communally, and to subsequently research, learn, and leverage modern technologies to create user-driven solutions. 
 
@@ -79,6 +75,7 @@ Ultimately, my goal is to utilize technology to advance the causes and amplify t
 </p>
 
 <!-- Links -->
+[Halcyon Health]: https://halcyonhealth.co/
 [General Assembly]: https://generalassemb.ly/
 [SEI]: https://generalassemb.ly/education/software-engineering-immersive/new-york-city
 [technical resume]: https://docdro.id/nJnd3i6
