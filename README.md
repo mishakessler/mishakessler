@@ -16,7 +16,7 @@
 - Previously, I worked for [General Assembly], where I was a Senior Associate Instructor for Curriculum and Planning on the New York Campus' 500-hour [Software Engineering Immersive][SEI].
 - You can download my technical resumé at [this link][technical resume] or on [my full portfolio][portfolio].
 
-#### Languages, Frameworks & Platforms
+<!-- #### Languages, Frameworks & Platforms
 
 ![][Apple]
 ![][Zsh]
@@ -35,19 +35,19 @@
 ![][Heroku]
 ![][AWS]
 ![][WP]
-![][Serverless]
+![][Serverless] -->
 
 <br>
 
 <h3 align="center">Want to learn more? 🔎</h3>
 
-#### My Passion
+#### My Career
 
 In addition to my day-to-day grind, you'll often find me advocating for mental health and suicide prevention, whether that's [speaking at events][speaking at events] or [with journalists][with journalists], guiding [policies][policies], [programs][programs], and [clinical research][clinical research], [coauthoring op-eds][coauthoring op-eds] and [recommendations for the improvement of crisis intervention services][recommendations for the improvement of crisis intervention services], [summiting mountains to fundraise for suicide prevention][summiting mountains to fundraise for suicide prevention], or just by personally helping individuals to find the help that's right for them.
 
 It's this background that has helped me become intently empathetic to the user and consumer experiences. Because of this, I'm constantly striving to understand the tangible challenges that we face individually and communally, and to subsequently research, learn, and leverage modern technologies to create user-driven solutions. 
 
-Ultimately, my goal is to utilize technology to advance the causes and amplify the voices of the advocates, carers, health professionals, scientists, social justice warriors– the people who work tirelessly to lift up the most vulnerable among us– and further their successes in pursuit of their missions.
+Ultimately, my goal is to utilize technology to advance the causes and amplify the voices of the advocates, carers, health professionals, scientists, social justice warriors– the people who work tirelessly to lift up the most vulnerable among us– and further their successes.
 
 <br>
 
