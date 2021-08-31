@@ -1,41 +1,32 @@
 <p align="center">
-  <a href="https://www.mishakessler.com">
-  <img src="https://github.com/mishakessler/mishakessler/blob/master/github-banner-v3.gif" alt="Misha Kessler's Banner GIF"/>
+  <a target="_blank" href="https://www.mishakessler.com">
+    <img src="https://github.com/mishakessler/mishakessler/blob/master/github-banner-v3.gif" alt="Misha Kessler's Banner GIF"/>
   </a>
 </p>
 
-<h2 align="center">Hey there, I'm Misha. 👋🏻</h2>
+<h2 align="center">Hey there, I'm Misha.</h2>
 
 <h3 align="center">I'm passionate about a thing or two.</h3>
 
 #### Overview
 
-- I'm a mission-driven, full-stack software engineer.
-- I'm particularly passionate about cultivating brilliant user interfaces and well-architected systems to empower those interfaces.
+- I'm a mission-driven, full-stack software engineer with a background in graphics and user experience design.
+- I'm particularly interested in building smooth, brilliant user interfaces, and the efficient, well-architected systems to power those interfaces.
 - Currently, you'll find me at [Halcyon Health], a venture-funded startup, where I'm a full-stack softeware engineer working on their substance addiction treatment app. 
 - Previously, I worked for [General Assembly], where I was a Senior Associate Instructor for Curriculum and Planning on the New York Campus' 500-hour [Software Engineering Immersive][SEI].
-- You can download my technical resumé at [this link][technical resume] or on [my full portfolio][portfolio].
 
-<!-- #### Languages, Frameworks & Platforms
+#### Languages, Frameworks & Platforms
 
-![][Apple]
-![][Zsh]
-![][VSCode]
 ![][Node]
 ![][React]
 ![][CSS]
 ![][SC]
 ![][CL]
 ![][SQL]
-![][NoSQL]
 ![][Ruby]
 ![][Rails]
-![][PHP]
-![][Netlify]
-![][Heroku]
-![][AWS]
 ![][WP]
-![][Serverless] -->
+![][Adobe]
 
 <br>
 
@@ -43,11 +34,11 @@
 
 #### My Career
 
-In addition to my day-to-day grind, you'll often find me advocating for mental health and suicide prevention, whether that's [speaking at events][speaking at events] or [with journalists][with journalists], guiding [policies][policies], [programs][programs], and [clinical research][clinical research], [coauthoring op-eds][coauthoring op-eds] and [recommendations for the improvement of crisis intervention services][recommendations for the improvement of crisis intervention services], [summiting mountains to fundraise for suicide prevention][summiting mountains to fundraise for suicide prevention], or just by personally helping individuals to find the help that's right for them.
+Ultimately, my goal is to utilize technology to advance the causes and amplify the voices of the advocates, carers, health professionals, scientists, social justice fighters– the people who work tirelessly to lift up the most vulnerable among us– and further their successes.
 
-It's this background that has helped me become intently empathetic to the user and consumer experiences. Because of this, I'm constantly striving to understand the tangible challenges that we face individually and communally, and to subsequently research, learn, and leverage modern technologies to create user-driven solutions. 
+In addition to my day-to-day, you'll find me advocating for mental health and suicide prevention, including [speaking at events][speaking at events] or [with journalists][with journalists], guiding [federal policies][policies], [programs][programs], and [clinical research][clinical research], [authoring op-eds][authoring op-eds] and [recommendations for the improvement of crisis intervention services][recommendations for the improvement of crisis intervention services], [summiting mountains to fundraise for suicide prevention][summiting mountains to fundraise for suicide prevention], or by personally helping individuals to find the help that's right for them.
 
-Ultimately, my goal is to utilize technology to advance the causes and amplify the voices of the advocates, carers, health professionals, scientists, social justice warriors– the people who work tirelessly to lift up the most vulnerable among us– and further their successes.
+You can download my technical resumé at [this link][technical resume] or visit [my full portfolio][portfolio].
 
 <br>
 
@@ -78,16 +69,16 @@ Ultimately, my goal is to utilize technology to advance the causes and amplify t
 [Halcyon Health]: https://halcyonhealth.co/
 [General Assembly]: https://generalassemb.ly/
 [SEI]: https://generalassemb.ly/education/software-engineering-immersive/new-york-city
-[technical resume]: https://docdro.id/nJnd3i6
-[portfolio]: https://www.mishakessler.com
 [speaking at events]: https://www.youtube.com/watch?v=yksozo9dUKg
 [with journalists]: https://talk.crisisnow.com/behavioral-healthcare-must-be-accessible-to-students/
 [policies]: https://napolitano.house.gov/media/press-releases/napolitano-katko-hold-transforming-crisis-mental-health-care-briefing
 [programs]: https://www.sixftover.org/
 [clinical research]: https://www.apa.org/depression-guideline/guideline.pdf
-[coauthoring op-eds]: https://www.azcentral.com/story/opinion/op-ed/2018/06/14/suicide-attempt-depression-lessons/700134002/
+[authoring op-eds]: https://www.azcentral.com/story/opinion/op-ed/2018/06/14/suicide-attempt-depression-lessons/700134002/
 [recommendations for the improvement of crisis intervention services]: https://omh.ny.gov/omhweb/resources/publications/suicide-prevention-task-force-report.pdf
 [summiting mountains to fundraise for suicide prevention]: https://www.facebook.com/donate/1450068458422007/1473012369672974/
+[technical resume]: https://docdro.id/nJnd3i6
+[portfolio]: https://www.mishakessler.com
 
 <!-- Shields -->
 [Apple]: https://img.shields.io/badge/OS-Apple-informational?logo=apple&logoColor=white&color=00bac8
@@ -105,9 +96,11 @@ Ultimately, my goal is to utilize technology to advance the causes and amplify t
 [noSQL]: https://img.shields.io/badge/Language-noSQL-informational?logo=MongoDB&logoColor=white&color=00bac8
 [Ruby]: https://img.shields.io/badge/Language-Ruby-informational?logo=ruby&logoColor=white&color=00bac8
 [Rails]: https://img.shields.io/badge/Framework-Rails-informational?logo=ruby-on-rails&logoColor=white&color=00bac8
+[Strapi]: https://img.shields.io/badge/Strapi-informational?logo=strapi&logoColor=white&color=00bac8
 [PHP]: https://img.shields.io/badge/Language-PHP-informational?logo=php&logoColor=white&color=00bac8
 [Netlify]: https://img.shields.io/badge/Platform-Netlify-informational?logo=netlify&logoColor=white&color=00bac8
 [Heroku]: https://img.shields.io/badge/Platform-Heroku-informational?logo=heroku&logoColor=white&color=00bac8
 [AWS]: https://img.shields.io/badge/Platform-AWS-informational?logo=amazon-aws&logoColor=white&color=00bac8
 [WP]: https://img.shields.io/badge/Platform-WordPress-informational?logo=wordpress&logoColor=white&color=00bac8
 [Serverless]: https://img.shields.io/badge/Stack-Serverless-informational?logo=serverless&logoColor=white&color=00bac8
+[Adobe]: https://img.shields.io/badge/Adobe-informational?logo=adobe&logoColor=white&color=00bac8
