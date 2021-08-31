@@ -1,21 +1,21 @@
 <p align="center">
   <a target="_blank" href="https://www.mishakessler.com">
-    <img src="https://github.com/mishakessler/mishakessler/blob/master/github-banner-v3.gif" alt="Misha Kessler's Banner GIF"/>
+    <img src="https://github.com/mishakessler/mishakessler/blob/master/github-banner-v4-1.gif" alt="branded banner with M logo"/>
   </a>
 </p>
 
 <h2 align="center">Hey there, I'm Misha.</h2>
 
-<h3 align="center">I'm passionate about a thing or two.</h3>
+### I'm passionate about a thing or two. ✊🏻
 
-#### Overview
+<!-- #### Overview -->
 
 - I'm a mission-driven, full-stack software engineer with a background in graphics and user experience design.
 - I'm particularly interested in building smooth, brilliant user interfaces, and the efficient, well-architected systems to power those interfaces.
 - Currently, you'll find me at [Halcyon Health], a venture-funded startup, where I'm a full-stack softeware engineer working on their substance addiction treatment app. 
 - Previously, I worked for [General Assembly], where I was a Senior Associate Instructor for Curriculum and Planning on the New York Campus' 500-hour [Software Engineering Immersive][SEI].
 
-#### Languages, Frameworks & Platforms
+<!-- #### Languages, Frameworks & Platforms
 
 ![][Node]
 ![][React]
@@ -27,41 +27,45 @@
 ![][Rails]
 ![][WP]
 ![][Adobe]
-
+ -->
 <br>
 
-<h3 align="center">Want to learn more? 🔎</h3>
+### Want to learn more? 🕵🏼‍♂️
 
-#### My Career
+<!-- #### My Career -->
 
 Ultimately, my goal is to utilize technology to advance the causes and amplify the voices of the advocates, carers, health professionals, scientists, social justice fighters– the people who work tirelessly to lift up the most vulnerable among us– and further their successes.
 
 In addition to my day-to-day, you'll find me advocating for mental health and suicide prevention, including [speaking at events][speaking at events] or [with journalists][with journalists], guiding [federal policies][policies], [programs][programs], and [clinical research][clinical research], [authoring op-eds][authoring op-eds] and [recommendations for the improvement of crisis intervention services][recommendations for the improvement of crisis intervention services], [summiting mountains to fundraise for suicide prevention][summiting mountains to fundraise for suicide prevention], or by personally helping individuals to find the help that's right for them.
 
-You can download my technical resumé at [this link][technical resume] or visit [my full portfolio][portfolio].
+You can download my technical resumé at [this link][technical resume], visit [my full portfolio][portfolio], or contact me directly for more.
+
+<!-- <p align="center">
+  <a style="margin: 0 5px" href="https://www.mishakessler.com">
+    <img src="https://imgur.com/PowY5kh.png" alt="Custom Watercolor Portfolio Logo" height="40px"/>
+  </a>
+  <a style="margin: 0 5px" href="https://www.linkedin.com/in/mishakessler">
+    <img src="https://imgur.com/AoH5Wac.png" alt="Custom Watercolor LinkedIn Logo" height="40px"/>
+  </a>
+  <a style="margin: 0 5px" href="https://angel.co/u/mishakessler">
+    <img src="https://imgur.com/leDskxg.png" alt="Custom Watercolor Angel.co Logo" height="40px"/>
+  </a>
+  <a style="margin: 0 5px" href="http://cofounderslab.com/profile/misha-kessler">
+    <img src="https://imgur.com/sPXLXvg.png" alt="Custom Watercolor CoFoundersLab Logo" height="40px"/>
+  </a>
+  <a style="margin: 0 5px" href="https://www.instagram.com/mishakessler">
+    <img src="https://imgur.com/YNTGISb.png" alt="Custom Watercolor Instagram Logo" height="40px"/>
+  </a>
+  <a style="margin: 0 5px" href="mailto:misha.kessler@gmail.com">
+    <img src="https://imgur.com/nHHlXdx.png" alt="Custom Watercolor Email Logo" height="40px"/>
+  </a>
+</p> -->
 
 <br>
 
-<h3 align="center">Find me online! 👨🏼</h3>
-
 <p align="center">
-  <a style="margin: 0 5px" href="https://www.mishakessler.com">
-    <img src="https://imgur.com/PowY5kh.png" alt="Custom Watercolor Portfolio Logo" height="50px"/>
-  </a>
-  <a style="margin: 0 5px" href="https://www.linkedin.com/in/mishakessler">
-    <img src="https://imgur.com/AoH5Wac.png" alt="Custom Watercolor LinkedIn Logo" height="50px"/>
-  </a>
-  <a style="margin: 0 5px" href="https://angel.co/u/mishakessler">
-    <img src="https://imgur.com/leDskxg.png" alt="Custom Watercolor Angel.co Logo" height="50px"/>
-  </a>
-  <a style="margin: 0 5px" href="http://cofounderslab.com/profile/misha-kessler">
-    <img src="https://imgur.com/sPXLXvg.png" alt="Custom Watercolor CoFoundersLab Logo" height="50px"/>
-  </a>
-  <a style="margin: 0 5px" href="https://www.instagram.com/mishakessler">
-    <img src="https://imgur.com/YNTGISb.png" alt="Custom Watercolor Instagram Logo" height="50px"/>
-  </a>
-  <a style="margin: 0 5px" href="mailto:misha.kessler@gmail.com">
-    <img src="https://imgur.com/nHHlXdx.png" alt="Custom Watercolor Email Logo" height="50px"/>
+  <a target="_blank" href="https://www.mishakessler.com">
+    <img src="https://github.com/mishakessler/mishakessler/blob/master/github-banner-v4-2.gif" alt="branded banner with website address"/>
   </a>
 </p>
 
