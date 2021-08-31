@@ -34,7 +34,7 @@
 
 <!-- #### My Career -->
 
-Ultimately, my goal is to utilize technology to advance the causes and amplify the voices of the advocates, carers, health professionals, scientists, social justice fighters– the people who work tirelessly to lift up the most vulnerable among us– and further their successes.
+Ultimately, my goal is to utilize technology to advance the causes and amplify the voices of the advocates, carers, health professionals, scientists, and the social justice fighters– the people who work tirelessly to lift up the most vulnerable among us– and help further their missions.
 
 In addition to my day-to-day, you'll find me advocating for mental health and suicide prevention, including [speaking at events][speaking at events] or [with journalists][with journalists], guiding [federal policies][policies], [programs][programs], and [clinical research][clinical research], [authoring op-eds][authoring op-eds] and [recommendations for the improvement of crisis intervention services][recommendations for the improvement of crisis intervention services], [summiting mountains to fundraise for suicide prevention][summiting mountains to fundraise for suicide prevention], or by personally helping individuals to find the help that's right for them.
 
