@@ -11,8 +11,8 @@
 <!-- #### Overview -->
 
 - I'm a mission-driven, full-stack software engineer with a background in graphics and user experience design.
-- I'm particularly interested in building smooth, brilliant user interfaces, and the efficient, well-architected systems to power those interfaces.
-- Currently, you'll find me at [Halcyon Health], a venture-funded startup, where I'm a full-stack softeware engineer working on their substance addiction treatment app. 
+- I'm particularly interested in building smooth user interfaces, and the efficient, well-architected systems to power those interfaces.
+- Currently, you'll find me at [Halcyon Health], a venture-funded startup, where I'm a full-stack softeware engineer working on their substance addiction treatment app.
 - Previously, I worked for [General Assembly], where I was a Senior Associate Instructor for Curriculum and Planning on the New York Campus' 500-hour [Software Engineering Immersive][SEI].
 
 <!-- #### Languages, Frameworks & Platforms
@@ -34,9 +34,9 @@
 
 <!-- #### My Career -->
 
-Ultimately, my goal is to utilize technology to advance the causes and amplify the voices of the advocates, carers, health professionals, scientists, and the social justice fighters– the people who work tirelessly to lift up the most vulnerable among us– and help further their missions.
+Before my career shift into tech, I had a long history of advocacy in mental health. Currently, in addition to my day-to-day grind, you'll find me advocating for mental health and suicide prevention, including [speaking at events][speaking at events] or [with journalists][with journalists], guiding [federal policies][policies], [programs][programs], and [clinical research][clinical research], [authoring op-eds][authoring op-eds] and [recommendations for the improvement of crisis intervention services][recommendations for the improvement of crisis intervention services], [summiting mountains to fundraise for suicide prevention][summiting mountains to fundraise for suicide prevention], or by personally helping individuals to find the help that's right for them.
 
-In addition to my day-to-day, you'll find me advocating for mental health and suicide prevention, including [speaking at events][speaking at events] or [with journalists][with journalists], guiding [federal policies][policies], [programs][programs], and [clinical research][clinical research], [authoring op-eds][authoring op-eds] and [recommendations for the improvement of crisis intervention services][recommendations for the improvement of crisis intervention services], [summiting mountains to fundraise for suicide prevention][summiting mountains to fundraise for suicide prevention], or by personally helping individuals to find the help that's right for them.
+Ultimately, my goal is to utilize technology to advance the causes and amplify the voices of the advocates, carers, health professionals, scientists, and the social justice fighters– the people who work tirelessly to lift up the most vulnerable among us– and help further their missions.
 
 You can download my technical resumé at [this link][technical resume], visit [my full portfolio][portfolio], or contact me directly for more.
 
