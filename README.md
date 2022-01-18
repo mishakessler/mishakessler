@@ -10,9 +10,9 @@
 
 <!-- #### Overview -->
 
-- I'm a mission-driven, full-stack software engineer with a background in graphics and user experience design.
-- I'm particularly interested in building smooth user interfaces, and the efficient, well-architected systems to power those interfaces.
-- Currently, you'll find me at [Halcyon Health], a venture-funded startup, where I'm a full-stack softeware engineer working on their substance addiction treatment app.
+- I'm a mission-driven, full-stack software engineer with a background in graphics and UX/UI design.
+- I'm particularly interested in building smooth user interfaces, and the efficient, well-architected systems to power them.
+- Currently, you'll find me at [Halcyon Health], a venture-funded startup, where I'm a full-stack software engineer working on their substance addiction treatment app.
 - Previously, I worked for [General Assembly], where I was a Senior Associate Instructor for Curriculum and Planning on the New York Campus' 500-hour [Software Engineering Immersive][SEI].
 
 <!-- #### Languages, Frameworks & Platforms
