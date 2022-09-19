@@ -29,8 +29,8 @@
 
 ### I'm passionate about a thing or two. ✊🏻
 
-- I'm a mission-driven, full-stack software engineer with a diverse technical background, including graphicd and brand design, UI/UX, and technical product management.
-- I'm particularly interested in building engaging user interfaces and the well-architected backends to power them.
+- I'm a mission-driven, full-stack software engineer with a diverse technical background, including graphics and brand design, UI/UX, and technical product management.
+- I'm particularly passionate about building beatuiful, engaging user interfaces, and the well-architected systems to power them.
 - Currently, you'll find me at [Vanna Health], an early-stage startup, where I'm one of the founding software engineers, building tech-enabled healthcare services for individuals with serious mental illness.
 - Previously, I worked for [Halcyon Health], a substance addiction treatment app, and [General Assembly], where I was a Senior Associate Instructor on the New York Campus' 500-hour [Software Engineering Immersive].
 
