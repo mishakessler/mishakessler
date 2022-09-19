@@ -6,41 +6,7 @@
 
 <h2 align="center">Hey there, I'm Misha.</h2>
 
-### I'm passionate about a thing or two. ✊🏻
-
-<!-- #### Overview -->
-
-- I'm a mission-driven, full-stack software engineer with a background in graphics and UX/UI design.
-- I'm particularly interested in building smooth user interfaces, and the efficient, well-architected systems to power them.
-- Currently, you'll find me at [Halcyon Health], a venture-funded startup, where I'm a full-stack software engineer working on their substance addiction treatment app.
-- Previously, I worked for [General Assembly], where I was a Senior Associate Instructor for Curriculum and Planning on the New York Campus' 500-hour [Software Engineering Immersive][SEI].
-
-<!-- #### Languages, Frameworks & Platforms
-
-![][Node]
-![][React]
-![][CSS]
-![][SC]
-![][CL]
-![][SQL]
-![][Ruby]
-![][Rails]
-![][WP]
-![][Adobe]
- -->
-<br>
-
-### Want to learn more? 🕵🏼‍♂️
-
-<!-- #### My Career -->
-
-Before my career shift into tech, I had a long history of advocacy in mental health. Currently, in addition to my day-to-day grind, you'll find me advocating for mental health and suicide prevention, including [speaking at events][speaking at events] or [with journalists][with journalists], guiding [federal policies][policies], [programs][programs], and [clinical research][clinical research], [authoring op-eds][authoring op-eds] and [recommendations for the improvement of crisis intervention services][recommendations for the improvement of crisis intervention services], [summiting mountains to fundraise for suicide prevention][summiting mountains to fundraise for suicide prevention], or by personally helping individuals to find the help that's right for them.
-
-Ultimately, my goal is to utilize technology to advance the causes and amplify the voices of the advocates, carers, health professionals, scientists, and the social justice fighters– the people who work tirelessly to lift up the most vulnerable among us– and help further their missions.
-
-You can download my technical resumé at [this link][technical resume], visit [my full portfolio][portfolio], or contact me directly for more.
-
-<!-- <p align="center">
+<p align="center">
   <a style="margin: 0 5px" href="https://www.mishakessler.com">
     <img src="https://imgur.com/PowY5kh.png" alt="Custom Watercolor Portfolio Logo" height="40px"/>
   </a>
@@ -59,7 +25,37 @@ You can download my technical resumé at [this link][technical resume], visit [m
   <a style="margin: 0 5px" href="mailto:misha.kessler@gmail.com">
     <img src="https://imgur.com/nHHlXdx.png" alt="Custom Watercolor Email Logo" height="40px"/>
   </a>
-</p> -->
+</p>
+
+### I'm passionate about a thing or two. ✊🏻
+
+- I'm a mission-driven, full-stack software engineer with a diverse technical background, including graphicd and brand design, UI/UX, and technical product management.
+- I'm particularly interested in building engaging user interfaces and the well-architected backends to power them.
+- Currently, you'll find me at [Vanna Health], an early-stage startup, where I'm one of the founding software engineers, building tech-enabled healthcare services for individuals with serious mental illness.
+- Previously, I worked for [Halcyon Health], a substance addiction treatment app, and [General Assembly], where I was a Senior Associate Instructor on the New York Campus' 500-hour [Software Engineering Immersive].
+
+<!-- #### Languages, Frameworks & Platforms
+
+![][Node]
+![][React]
+![][CSS]
+![][SC]
+![][CL]
+![][SQL]
+![][Ruby]
+![][Rails]
+![][WP]
+![][Adobe]
+ -->
+<br>
+
+### Want to learn more? 🕵🏼‍♂️
+
+Leading up to my career shift into technology, I dedicated my career to advocacy in mental healthcare and suicide prevention/intervention. Even now, in addition to my day-to-day grind, you'll find me giving speeches, preseting on panels, and participating in oversight committees for mental health and suicide prevention programs. This includes [speaking at events][speaking at events] and [with journalists][with journalists], guiding [federal policies][policies], [programs][programs], and [clinical research][clinical research], [authoring op-eds][authoring op-eds] and [recommendations for the improvement of crisis intervention services][recommendations for the improvement of crisis intervention services], and even [summiting mountains to fundraise for suicide prevention][summiting mountains to fundraise for suicide prevention].
+
+Ultimately, my goal is to utilize technology to advance the causes and amplify the voices of the advocates, carers, health professionals, scientists, and the social justice fighters– the people who work tirelessly to lift up the most vulnerable among us– and help further their missions.
+
+You can download my technical resumé at [this link][technical resume], visit [my full portfolio][portfolio], or contact me directly for more.
 
 <br>
 
@@ -70,9 +66,10 @@ You can download my technical resumé at [this link][technical resume], visit [m
 </p>
 
 <!-- Links -->
+[Vanna Health]: https://vanna.health/
 [Halcyon Health]: https://halcyonhealth.co/
 [General Assembly]: https://generalassemb.ly/
-[SEI]: https://generalassemb.ly/education/software-engineering-immersive/new-york-city
+[Software Engineering Immersive]: https://generalassemb.ly/education/software-engineering-immersive/new-york-city
 [speaking at events]: https://www.youtube.com/watch?v=yksozo9dUKg
 [with journalists]: https://talk.crisisnow.com/behavioral-healthcare-must-be-accessible-to-students/
 [policies]: https://napolitano.house.gov/media/press-releases/napolitano-katko-hold-transforming-crisis-mental-health-care-briefing
