@@ -29,10 +29,8 @@
 
 ### I'm passionate about a thing or two. ✊🏻
 
-- I'm a mission-driven, full-stack software engineer with a diverse technical background, including graphics and brand design, UI/UX, and technical product management.
-- I'm particularly passionate about building beatuiful, engaging user interfaces, and the well-architected systems to power them.
-- Currently, you'll find me at [Vanna Health], an early-stage startup, where I'm one of the founding software engineers, building tech-enabled healthcare services for individuals with serious mental illness.
-- Previously, I worked for [Halcyon Health], a substance addiction treatment app, and [General Assembly], where I was a Senior Associate Instructor on the New York Campus' 500-hour [Software Engineering Immersive].
+I'm a mission-driven leader at the intersection of mental healthcare advocacy, product innovation, and software engineering.
+
 
 <!-- #### Languages, Frameworks & Platforms
 
@@ -47,15 +45,16 @@
 ![][WP]
 ![][Adobe]
  -->
-<br>
 
 ### Want to learn more? 🕵🏼‍♂️
 
-Leading up to my career shift into technology, I dedicated my career to advocacy in mental healthcare and suicide prevention/intervention. Even now, in addition to my day-to-day grind, you'll find me giving speeches, preseting on panels, and participating in oversight committees for mental health and suicide prevention programs. This includes [speaking at events][speaking at events] and [with journalists][with journalists], guiding [federal policies][policies], [programs][programs], and [clinical research][clinical research], [authoring op-eds][authoring op-eds] and [recommendations for the improvement of crisis intervention services][recommendations for the improvement of crisis intervention services], and even [summiting mountains to fundraise for suicide prevention][summiting mountains to fundraise for suicide prevention].
+Before my shift into technology, I encountered the complexities of mental health challenges firsthand– navigating severe depression, stigma, and the challenge of finding the right care for my needs– but through that journey, I found both healing and purpose, committing myself to advocating for the improvement of mental health services.
 
-Ultimately, my goal is to utilize technology to advance the causes and amplify the voices of the advocates, carers, health professionals, scientists, and the social justice fighters– the people who work tirelessly to lift up the most vulnerable among us– and help further their missions.
+This commitment led me to a rewarding career in mental health and suicide prevention, where I’ve been interviewed for prestigious news media and feature-length documentaries, testified before Congress, took the stage at the Grammys, and summited mountains for suicide prevention fundraisers. (To this day, I continue to serve in various advisory roles.) Seeking to amplify my impact, I transitioned into software engineering and product development, where I now focus on building innovative, evidence-based solutions that expand access to quality mental healthcare.
 
-You can download my technical resumé at [this link][technical resume], visit [my full portfolio][portfolio], or contact me directly for more.
+I thrive at the intersection of mission, vision, and execution. By bridging my lived experience, advocacy, and technical expertise, I aim to build the next generation of transformative mental health solutions, driving meaningful change at scale.
+
+To learn more, visit [my portfolio][portfolio], or contact me using the icon links above.
 
 <br>
 
